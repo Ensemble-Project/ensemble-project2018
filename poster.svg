@@ -10785,9 +10785,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.58781078"
-     inkscape:cx="511.21898"
-     inkscape:cy="398.90556"
+     inkscape:zoom="1"
+     inkscape:cx="543.26125"
+     inkscape:cy="703.25144"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -12082,9 +12082,21 @@
        transform="scale(0.26458333)" />
     <path
        style="display:inline;opacity:0.98000004;fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter2540)"
-       d="M 316.97083,212.8625 -73.024999,257.57708 9.5249999,338.53958 313.00208,291.97292 Z"
+       d="M 316.97083,212.70336 -73.024999,257.41794 9.5249999,338.38044 313.00208,291.81378 Z"
        id="path2547"
        inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="主催">
+    <rect
+       style="opacity:1;fill:#2b2200;fill-opacity:0.98843934;stroke:none;stroke-width:0.24878004"
+       id="rect2337"
+       width="104.96028"
+       height="21.3248"
+       x="106.85535"
+       y="276.78918" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -12281,7 +12293,7 @@
          x="9.5032892"
          y="110.4063"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.84058857px;font-family:'源ノ角ゴシック';-inkscape-font-specification:'源ノ角ゴシック, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-         id="tspan2413">12:40 ブラームス/ピアノ五重奏曲 より 第１楽章</tspan></text>
+         id="tspan2413">12:40 ブラームス/ピアノ五重奏曲 より第１楽章</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.8405888px;line-height:3.25;font-family:'源ノ角ゴシック';-inkscape-font-specification:'源ノ角ゴシック, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
@@ -12487,5 +12499,49 @@
          x="9.5766668"
          y="287.96652"
          style="fill:#ffffff;stroke-width:0.26458332">入場無料 自由席</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:3.25;font-family:'源ノ角ゴシック';-inkscape-font-specification:'源ノ角ゴシック, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffeeaa;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="108.70367"
+       y="283.21136"
+       id="text2322"><tspan
+         sodipodi:role="line"
+         id="tspan2320"
+         x="108.70367"
+         y="283.21136"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'源ノ角ゴシック';-inkscape-font-specification:'源ノ角ゴシック, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffeeaa;stroke-width:0.26458332">主催 東京大学フィロムジカ交響楽団 OB・OG</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:3.25;font-family:'源ノ角ゴシック';-inkscape-font-specification:'源ノ角ゴシック';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="100.25833"
+       y="290.6344"
+       id="text2326"><tspan
+         sodipodi:role="line"
+         id="tspan2324"
+         x="100.25833"
+         y="299.82956"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:3.25;font-family:'源ノ角ゴシック';-inkscape-font-specification:'源ノ角ゴシック';letter-spacing:0px;word-spacing:0px;fill:#ffeeaa;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="108.54139"
+       y="289.25778"
+       id="text2330"><tspan
+         sodipodi:role="line"
+         id="tspan2328"
+         x="108.54139"
+         y="289.25778"
+         style="fill:#ffeeaa;stroke-width:0.26458332">MAIL: ensemble2018project721@gmail.com</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:3.25;font-family:'源ノ角ゴシック';-inkscape-font-specification:'源ノ角ゴシック';letter-spacing:0px;word-spacing:0px;fill:#ffeeaa;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="108.54139"
+       y="294.82764"
+       id="text2334"><tspan
+         sodipodi:role="line"
+         id="tspan2332"
+         x="108.54139"
+         y="294.82764"
+         style="fill:#ffeeaa;stroke-width:0.26458332">HP: https://ensemble-project.github.io/</tspan></text>
   </g>
 </svg>
